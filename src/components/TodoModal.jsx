@@ -125,7 +125,7 @@ function TodoModal({ type, modalOpen, setModalOpen, todo }) {
                   value={status}
                   onChange={(e) => setStatus(e.target.value)}
                 >
-                  <option value="incomplete">Pendiete</option>
+                  <option value="incomplete">Pendiente</option>
                   <option value="complete">Completada</option>
                 </select>
               </label>
