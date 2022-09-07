@@ -4,9 +4,9 @@
 
 Crear una SPA donde el usuario cuente con una interfaz que le facilite la creación, edición, eliminación y visualización de sus tareas pendientes.
 
-• El usuario debe ser capaz de crear, editar, eliminar y visualizar sus tareas.
-• El usuario debe ser capaz de cambiar el estatus de una tarea de “pendiente” a “completada” y de “completada” a “pendiente”.
-• El usuario debe ser capaz de filtrar las tareas por su estatus, el estatus de las tareas puede ser “completada” o “pendiente”.
+- El usuario debe ser capaz de crear, editar, eliminar y visualizar sus tareas.
+- El usuario debe ser capaz de cambiar el estatus de una tarea de “pendiente” a “completada” y de “completada” a “pendiente”.
+- El usuario debe ser capaz de filtrar las tareas por su estatus, el estatus de las tareas puede ser “completada” o “pendiente”.
 
 ## Iniciar la APP:
 
