@@ -48,7 +48,7 @@ function AppContent() {
           filteredTodoList.map((todo) => <TodoItem key={todo.id} todo={todo} />)
         ) : (
           <motion.p variants={child} className={styles.emptyText}>
-            Sin tareas pendietes 🙂
+            Sin tareas pendientes 🙂
           </motion.p>
         )}
       </AnimatePresence>
