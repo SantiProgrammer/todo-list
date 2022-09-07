@@ -1,0 +1,8 @@
+{
+  "short_name": "Todo List",
+  "name": "Todo List by ThisIsSanti.dev",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
